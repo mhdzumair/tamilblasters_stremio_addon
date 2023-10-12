@@ -1,3 +1,9 @@
+# :warning: Repository Archived :warning:
+
+**This repository has been archived and is no longer actively maintained. For the updated and active version, please visit [MediaFusion](https://github.com/mhdzumair/MediaFusion).**
+
+---
+
 # Disclaimer :warning: :warning: :warning:
 
 > The contents of these scripts and files are created for Educational Purpose. Use of the Add-on is at your own risk.
@@ -14,10 +20,10 @@ Stremio Addon for Tamil Blasters Movies & Series.
 
 ## Installation
 
-1. Install from home page: https://882b9915d0fe-stremio-tamilblasters.baby-beamup.club
+1. Install from home page: https://882b9915d0fe-mediafusion.baby-beamup.club
 2. You can search on the third-party addon page as "Tamil Blasters"
-3. enter this link in stremio search bar to
-   install: https://882b9915d0fe-stremio-tamilblasters.baby-beamup.club/manifest.json
+3. Enter this link in stremio search bar to install: https://882b9915d0fe-mediafusion.baby-beamup.club/manifest.json
+
 
 # References
 
